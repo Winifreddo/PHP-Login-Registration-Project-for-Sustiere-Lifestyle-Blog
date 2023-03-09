@@ -1,5 +1,21 @@
 # PHP Login/Registration Project for Sustiere Lifestyle Blog
 
+## Contents
+
+### Project overview
+
+### Requirements
+
+### Languages
+
+### Database and Table Connection
+
+### Existing User Tests
+
+### Project Structure
+
+### Functionality
+
 ## Project overview
 
 This project provides a functional signup/login system wherein users can register for an account and use login details to access the account. Data used to create an account is stored in a MySQL database and queries are used to retrieve and compare data to enable login to acccounts in the future.
