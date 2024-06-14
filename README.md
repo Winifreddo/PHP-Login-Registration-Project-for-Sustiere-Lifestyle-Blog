@@ -19,6 +19,7 @@
 ## Project overview
 
 This project provides a functional signup/login system wherein users can register for an account and use login details to access the account. Data used to create an account is stored in a MySQL database and queries are used to retrieve and compare data to enable login to acccounts in the future.
+Link to video demonstration of project: https://drive.google.com/file/d/1HHqHk1PNZpF81fT9bDLwr-c3qZWjZ7VJ/view?usp=sharing
 
 ## Requirements
 
